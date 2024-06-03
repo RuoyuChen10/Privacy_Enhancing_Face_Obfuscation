@@ -1,0 +1,47 @@
+Male, Instance number: 279, TP: 0.17204301075268819, ACC: 0.10294117647058823. 
+Female, Instance number: 333, TP: 0.04504504504504504, ACC: 0.10294117647058823. 
+Young, Instance number: 212, TP: 0.6132075471698113, ACC: 0.4035947712418301. 
+Middle Aged, Instance number: 246, TP: 0.008130081300813009, ACC: 0.4493464052287582. 
+Senior, Instance number: 111, TP: 0.23423423423423423, ACC: 0.7467320261437909. 
+White, Instance number: 566, TP: 0.9134275618374559, ACC: 0.8921568627450981. 
+Asian, Instance number: 21, TP: 0.5238095238095238, ACC: 0.9313725490196079. 
+Black, Instance number: 15, TP: 0.6666666666666666, ACC: 0.9591503267973857. 
+Male-Young, Instance number: 84, TP: 0.08333333333333333, ACC: 0.07026143790849673. 
+Male-Middle Aged, Instance number: 148, TP: 0.006756756756756757, ACC: 0.06372549019607843. 
+Male-Senior, Instance number: 24, TP: 0.3333333333333333, ACC: 0.0784313725490196. 
+Female-Young, Instance number: 128, TP: 0.09375, ACC: 0.07026143790849673. 
+Female-Middle Aged, Instance number: 98, TP: 0.0, ACC: 0.06372549019607843. 
+Female-Senior, Instance number: 87, TP: 0.0, ACC: 0.0784313725490196. 
+Male-White, Instance number: 264, TP: 0.15151515151515152, ACC: 0.08333333333333333. 
+Male-Asian, Instance number: 4, TP: 0.0, ACC: 0.09477124183006536. 
+Male-Black, Instance number: 6, TP: 0.0, ACC: 0.09640522875816994. 
+Female-White, Instance number: 302, TP: 0.03642384105960265, ACC: 0.08333333333333333. 
+Female-Asian, Instance number: 17, TP: 0.0, ACC: 0.09477124183006536. 
+Female-Black, Instance number: 9, TP: 0.0, ACC: 0.09640522875816994. 
+Young-White, Instance number: 182, TP: 0.5164835164835165, ACC: 0.35947712418300654. 
+Middle Aged-White, Instance number: 235, TP: 0.00851063829787234, ACC: 0.3888888888888889. 
+Senior-White, Instance number: 107, TP: 0.2336448598130841, ACC: 0.6568627450980392. 
+Young-Asian, Instance number: 16, TP: 0.3125, ACC: 0.3790849673202614. 
+Middle Aged-Asian, Instance number: 2, TP: 0.0, ACC: 0.4117647058823529. 
+Senior-Asian, Instance number: 2, TP: 0.0, ACC: 0.6895424836601307. 
+Young-Black, Instance number: 10, TP: 0.5, ACC: 0.38562091503267976. 
+Middle Aged-Black, Instance number: 5, TP: 0.0, ACC: 0.42483660130718953. 
+Senior-Black, Instance number: 1e-09, TP: 0.0, ACC: 0.7140522875816994. 
+Male-Young-White, Instance number: 79, TP: 0.06329113924050633, ACC: 0.05718954248366013. 
+Male-Middle Aged-White, Instance number: 140, TP: 0.007142857142857143, ACC: 0.04738562091503268. 
+Male-Senior-White, Instance number: 22, TP: 0.3181818181818182, ACC: 0.06372549019607843. 
+Male-Young-Asian, Instance number: 1, TP: 0.0, ACC: 0.06372549019607843. 
+Male-Middle Aged-Asian, Instance number: 1, TP: 0.0, ACC: 0.05718954248366013. 
+Male-Senior-Asian, Instance number: 2, TP: 0.0, ACC: 0.0718954248366013. 
+Male-Young-Black, Instance number: 2, TP: 0.0, ACC: 0.06699346405228758. 
+Male-Middle Aged-Black, Instance number: 4, TP: 0.0, ACC: 0.05718954248366013. 
+Male-Senior-Black, Instance number: 1e-09, TP: 0.0, ACC: 0.07352941176470588. 
+Female-Young-White, Instance number: 103, TP: 0.08737864077669903, ACC: 0.05718954248366013. 
+Female-Middle Aged-White, Instance number: 95, TP: 0.0, ACC: 0.04738562091503268. 
+Female-Senior-White, Instance number: 85, TP: 0.0, ACC: 0.06372549019607843. 
+Female-Young-Asian, Instance number: 15, TP: 0.0, ACC: 0.06372549019607843. 
+Female-Middle Aged-Asian, Instance number: 1, TP: 0.0, ACC: 0.05718954248366013. 
+Female-Senior-Asian, Instance number: 1e-09, TP: 0.0, ACC: 0.0718954248366013. 
+Female-Young-Black, Instance number: 8, TP: 0.0, ACC: 0.06699346405228758. 
+Female-Middle Aged-Black, Instance number: 1, TP: 0.0, ACC: 0.05718954248366013. 
+Female-Senior-Black, Instance number: 1e-09, TP: 0.0, ACC: 0.07352941176470588. 

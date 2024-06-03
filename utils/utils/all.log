@@ -1,0 +1,132 @@
+测试结束，有效测试数据数量为8703张，属性Male, Young的预测结果的TP为0.6475573280159521，ACC为0.8359186487418132
+测试结束，有效测试数据数量为8703张，属性Male, Middle Aged的预测结果的TP为0.5132336018411968，ACC为0.803171320234402
+测试结束，有效测试数据数量为8703张，属性Male, Senior的预测结果的TP为0.7376623376623377，ACC为0.8410892795587729
+测试结束，有效测试数据数量为8703张，属性Female, Young的预测结果的TP为0.9374307862679956，ACC为0.8372974836263357
+测试结束，有效测试数据数量为8703张，属性Female, Middle Aged的预测结果的TP为0.0，ACC为0.8028266115132713
+测试结束，有效测试数据数量为8703张，属性Female, Senior的预测结果的TP为0.15311004784688995，ACC为0.8429277260714696
+测试结束，有效测试数据数量为8703张，属性Male, White的预测结果的TP为0.9171338045332683，ACC为0.8610823853843502
+测试结束，有效测试数据数量为8703张，属性Male, Asian的预测结果的TP为0.3046683046683047，ACC为0.8836033551648856
+测试结束，有效测试数据数量为8703张，属性Male, Black的预测结果的TP为0.31842105263157894，ACC为0.9083074801792486
+测试结束，有效测试数据数量为8703张，属性Female, White的预测结果的TP为0.9115494750238625，ACC为0.863954958060439
+测试结束，有效测试数据数量为8703张，属性Female, Asian的预测结果的TP为0.40987654320987654，ACC为0.8873951510973228
+测试结束，有效测试数据数量为8703张，属性Female, Black的预测结果的TP为0.29850746268656714，ACC为0.9112949557623808
+测试结束，有效测试数据数量为8703张，属性Young, White的预测结果的TP为0.8204801359677076，ACC为0.8102953004711019
+测试结束，有效测试数据数量为8703张，属性Middle Aged, White的预测结果的TP为0.6780715396578538，ACC为0.7885786510398713
+测试结束，有效测试数据数量为8703张，属性Senior, White的预测结果的TP为0.8916666666666667，ACC为0.8216706882684132
+测试结束，有效测试数据数量为8703张，属性Young, Asian的预测结果的TP为0.2926596758817922，ACC为0.8286797655980697
+测试结束，有效测试数据数量为8703张，属性Middle Aged, Asian的预测结果的TP为0.0，ACC为0.8065035045386648
+测试结束，有效测试数据数量为8703张，属性Senior, Asian的预测结果的TP为0.12396694214876033，ACC为0.8435022406066873
+测试结束，有效测试数据数量为8703张，属性Young, Black的预测结果的TP为0.244249726177437，ACC为0.853268987705389
+测试结束，有效测试数据数量为8703张，属性Middle Aged, Black的预测结果的TP为0.0，ACC为0.835459037113639
+测试结束，有效测试数据数量为8703张，属性Senior, Black的预测结果的TP为0.0，ACC为0.8676318510858325
+测试结束，有效测试数据数量为8703张，属性Male, Young, White的预测结果的TP为0.5502958579881657，ACC为0.7739859818453407
+测试结束，有效测试数据数量为8703张，属性Male, Middle Aged, White的预测结果的TP为0.5052143684820394，ACC为0.7398598184534069
+测试结束，有效测试数据数量为8703张，属性Male, Senior, White的预测结果的TP为0.7162408759124088，ACC为0.7745604963805585
+测试结束，有效测试数据数量为8703张，属性Male, Young, Asian的预测结果的TP为0.10714285714285714，ACC为0.7911065149948294
+测试结束，有效测试数据数量为8703张，属性Male, Middle Aged, Asian的预测结果的TP为0.0，ACC为0.7552568079972424
+测试结束，有效测试数据数量为8703张，属性Male, Senior, Asian的预测结果的TP为0.04573170731707317，ACC为0.7939790876709181
+测试结束，有效测试数据数量为8703张，属性Male, Young, Black的预测结果的TP为0.10767326732673267，ACC为0.8144318051246696
+测试结束，有效测试数据数量为8703张，属性Male, Middle Aged, Black的预测结果的TP为0.0，ACC为0.7823738940595197
+测试结束，有效测试数据数量为8703张，属性Male, Senior, Black的预测结果的TP为0.0，ACC为0.8168447661725842
+测试结束，有效测试数据数量为8703张，属性Female, Young, White的预测结果的TP为0.8910987936093903，ACC为0.775939331265081
+测试结束，有效测试数据数量为8703张，属性Female, Middle Aged, White的预测结果的TP为0.0，ACC为0.7398598184534069
+测试结束，有效测试数据数量为8703张，属性Female, Senior, White的预测结果的TP为0.15311004784688995，ACC为0.7768585545214294
+测试结束，有效测试数据数量为8703张，属性Female, Young, Asian的预测结果的TP为0.36086956521739133，ACC为0.7932896702286568
+测试结束，有效测试数据数量为8703张，属性Female, Middle Aged, Asian的预测结果的TP为0.0，ACC为0.7557164196254165
+测试结束，有效测试数据数量为8703张，属性Female, Senior, Asian的预测结果的TP为0.0，ACC为0.7966218545329197
+测试结束，有效测试数据数量为8703张，属性Female, Young, Black的预测结果的TP为0.24691358024691357，ACC为0.8158106400091922
+测试结束，有效测试数据数量为8703张，属性Female, Middle Aged, Black的预测结果的TP为0.0，ACC为0.7822589911524762
+测试结束，有效测试数据数量为8703张，属性Female, Senior, Black的预测结果的TP为0.0，ACC为0.8185683097782374Done!The number of images are 376. The attributes are Male, Young. The True positive is 0.7532467532467533. The accuracy is 0.8670212765957447. 
+Done!The number of images are 376. The attributes are Male, Middle Aged. The True positive is 0.6. The accuracy is 0.800531914893617. 
+Done!The number of images are 376. The attributes are Male, Senior. The True positive is 0.803921568627451. The accuracy is 0.8590425531914894. 
+Done!The number of images are 376. The attributes are Female, Young. The True positive is 0.9337748344370861. The accuracy is 0.8776595744680851. 
+Done!The number of images are 376. The attributes are Female, Middle Aged. The True positive is 0.0. The accuracy is 0.8031914893617021. 
+Done!The number of images are 376. The attributes are Female, Senior. The True positive is 0.16666666666666666. The accuracy is 0.8723404255319149. 
+Done!The number of images are 376. The attributes are Male, White. The True positive is 0.9152542372881356. The accuracy is 0.8670212765957447. 
+Done!The number of images are 376. The attributes are Male, Asian. The True positive is 0.47058823529411764. The accuracy is 0.8909574468085106. 
+Done!The number of images are 376. The attributes are Male, Black. The True positive is 0.18181818181818182. The accuracy is 0.9069148936170213. 
+Done!The number of images are 376. The attributes are Female, White. The True positive is 0.9485294117647058. The accuracy is 0.875. 
+Done!The number of images are 376. The attributes are Female, Asian. The True positive is 0.3076923076923077. The accuracy is 0.9042553191489362. 
+Done!The number of images are 376. The attributes are Female, Black. The True positive is 0.25. The accuracy is 0.9069148936170213. 
+Done!The number of images are 376. The attributes are Young, White. The True positive is 0.8624338624338624. The accuracy is 0.848404255319149. 
+Done!The number of images are 376. The attributes are Middle Aged, White. The True positive is 0.7222222222222222. The accuracy is 0.7845744680851063. 
+Done!The number of images are 376. The attributes are Senior, White. The True positive is 0.8695652173913043. The accuracy is 0.8404255319148937. 
+Done!The number of images are 376. The attributes are Young, Asian. The True positive is 0.42105263157894735. The accuracy is 0.8696808510638298. 
+Done!The number of images are 376. The attributes are Young, White. The True positive is 0.8624338624338624. The accuracy is 0.848404255319149. 
+Done!The number of images are 376. The attributes are Middle Aged, White. The True positive is 0.7222222222222222. The accuracy is 0.7845744680851063. 
+Done!The number of images are 376. The attributes are Senior, White. The True positive is 0.8695652173913043. The accuracy is 0.8404255319148937. 
+Done!The number of images are 376. The attributes are Young, Asian. The True positive is 0.42105263157894735. The accuracy is 0.8696808510638298. 
+Done!The number of images are 376. The attributes are Middle Aged, Asian. The True positive is 0.0. The accuracy is 0.800531914893617. 
+Done!The number of images are 376. The attributes are Senior, Asian. The True positive is 0.0. The accuracy is 0.8670212765957447. 
+Done!The number of images are 376. The attributes are Young, Black. The True positive is 0.24. The accuracy is 0.875. 
+Done!The number of images are 376. The attributes are Middle Aged, Black. The True positive is 0.0. The accuracy is 0.8218085106382979. 
+Done!The number of images are 376. The attributes are Senior, Black. The True positive is 0.0. The accuracy is 0.8643617021276596. 
+Done!The number of images are 376. The attributes are Young, White. The True positive is 0.0. The accuracy is 0.03723404255319149. 
+Done!The number of images are 376. The attributes are Middle Aged, White. The True positive is 0.0. The accuracy is 0.09308510638297872. 
+Done!The number of images are 376. The attributes are Senior, White. The True positive is 0.0. The accuracy is 0.11436170212765957. 
+Done!The number of images are 376. The attributes are Young, Asian. The True positive is 0.0. The accuracy is 0.35106382978723405. 
+Done!The number of images are 376. The attributes are Middle Aged, Asian. The True positive is 0.0. The accuracy is 0.6090425531914894. 
+Done!The number of images are 376. The attributes are Senior, Asian. The True positive is 0.0. The accuracy is 0.6675531914893617. 
+Done!The number of images are 376. The attributes are Young, Black. The True positive is 0.0. The accuracy is 0.30319148936170215. 
+Done!The number of images are 376. The attributes are Middle Aged, Black. The True positive is 0.02666666666666667. The accuracy is 0.5186170212765957. 
+Done!The number of images are 376. The attributes are Senior, Black. The True positive is 0.0. The accuracy is 0.601063829787234. 
+Done!The number of images are 702. The attributes are Male, Young. The True positive is 0.691358024691358. The accuracy is 0.8532763532763533. 
+Done!The number of images are 703. The attributes are Male, Middle Aged. The True positive is 0.5. The accuracy is 0.7923186344238976. 
+Done!The number of images are 703. The attributes are Male, Senior. The True positive is 0.7551020408163265. The accuracy is 0.8392603129445235. 
+Done!The number of images are 703. The attributes are Female, Young. The True positive is 0.9375. The accuracy is 0.8620199146514936. 
+Done!The number of images are 703. The attributes are Female, Middle Aged. The True positive is 0.0. The accuracy is 0.7951635846372689. 
+Done!The number of images are 703. The attributes are Female, Senior. The True positive is 0.2. The accuracy is 0.8492176386913229. 
+Done!The number of images are 703. The attributes are Male, Young. The True positive is 0.0. The accuracy is 0.06827880512091039. 
+Done!The number of images are 703. The attributes are Male, Middle Aged. The True positive is 0.012121212121212121. The accuracy is 0.20910384068278806. 
+Done!The number of images are 703. The attributes are Male, Senior. The True positive is 0.0. The accuracy is 0.2119487908961593. 
+Done!The number of images are 703. The attributes are Female, Young. The True positive is 0.0365296803652968. The accuracy is 0.19772403982930298. 
+Done!The number of images are 703. The attributes are Female, Middle Aged. The True positive is 0.0. The accuracy is 0.19772403982930298. 
+Done!The number of images are 703. The attributes are Female, Senior. The True positive is 0.0. The accuracy is 0.18776671408250356. 
+Done!The number of images are 828. The attributes are Male, White. The True positive is 0.9178743961352657. The accuracy is 0.8792270531400966. 
+Done!The number of images are 828. The attributes are Male, Asian. The True positive is 0.275. The accuracy is 0.8876811594202898. 
+Done!The number of images are 828. The attributes are Male, Black. The True positive is 0.15151515151515152. The accuracy is 0.9142512077294686. 
+Done!The number of images are 828. The attributes are Female, White. The True positive is 0.950354609929078. The accuracy is 0.8804347826086957. 
+Done!The number of images are 828. The attributes are Female, Asian. The True positive is 0.4666666666666667. The accuracy is 0.8900966183574879. 
+Done!The number of images are 828. The attributes are Female, Black. The True positive is 0.3. The accuracy is 0.9082125603864735. 
+Done!The number of images are 828. The attributes are Male, White. The True positive is 0.04980842911877394. The accuracy is 0.050724637681159424. 
+Done!The number of images are 828. The attributes are Male, Asian. The True positive is 0.0. The accuracy is 0.15217391304347827. 
+Done!The number of images are 828. The attributes are Male, Black. The True positive is 0.0. The accuracy is 0.1497584541062802. 
+Done!The number of images are 828. The attributes are Female, White. The True positive is 0.008968609865470852. The accuracy is 0.0893719806763285. 
+Done!The number of images are 828. The attributes are Female, Asian. The True positive is 0.0. The accuracy is 0.3140096618357488. 
+Done!The number of images are 828. The attributes are Female, Black. The True positive is 0.004524886877828055. The accuracy is 0.3140096618357488. 
+Done!The number of images are 990. The attributes are Male, Young, White. The True positive is 0.6086956521739131. The accuracy is 0.8. 
+Done!The number of images are 990. The attributes are Male, Middle Aged, White. The True positive is 0.4563106796116505. The accuracy is 0.7454545454545455. 
+Done!The number of images are 990. The attributes are Male, Senior, White. The True positive is 0.7463768115942029. The accuracy is 0.7767676767676768. 
+Done!The number of images are 990. The attributes are Male, Young, Asian. The True positive is 0.15. The accuracy is 0.8181818181818182. 
+Done!The number of images are 990. The attributes are Male, Middle Aged, Asian. The True positive is 0.0. The accuracy is 0.7585858585858586. 
+Done!The number of images are 990. The attributes are Male, Senior, Asian. The True positive is 0.0. The accuracy is 0.794949494949495. 
+Done!The number of images are 990. The attributes are Male, Young, Black. The True positive is 0.04225352112676056. The accuracy is 0.8353535353535354. 
+Done!The number of images are 990. The attributes are Male, Middle Aged, Black. The True positive is 0.0. The accuracy is 0.7838383838383839. 
+Done!The number of images are 990. The attributes are Male, Senior, Black. The True positive is 0.0. The accuracy is 0.8121212121212121. 
+Done!The number of images are 990. The attributes are Female, Young, White. The True positive is 0.9207317073170732. The accuracy is 0.803030303030303. 
+Done!The number of images are 990. The attributes are Female, Middle Aged, White. The True positive is 0.0. The accuracy is 0.7444444444444445. 
+Done!The number of images are 990. The attributes are Female, Senior, White. The True positive is 0.13333333333333333. The accuracy is 0.7808080808080808. 
+Done!The number of images are 990. The attributes are Female, Young, Asian. The True positive is 0.3488372093023256. The accuracy is 0.8202020202020202. 
+Done!The number of images are 991. The attributes are Female, Middle Aged, Asian. The True positive is 0.0. The accuracy is 0.7558022199798183. 
+Done!The number of images are 991. The attributes are Female, Senior, Asian. The True positive is 0.0. The accuracy is 0.798183652875883. 
+Done!The number of images are 991. The attributes are Female, Young, Black. The True positive is 0.21875. The accuracy is 0.8314833501513622. 
+Done!The number of images are 991. The attributes are Female, Middle Aged, Black. The True positive is 0.0. The accuracy is 0.7759838546922301. 
+Done!The number of images are 991. The attributes are Female, Senior, Black. The True positive is 0.0. The accuracy is 0.8092835519677094. 
+Done!The number of images are 991. The attributes are Male, Young, White. The True positive is 0.0. The accuracy is 0.025227043390514632. 
+Done!The number of images are 991. The attributes are Male, Middle Aged, White. The True positive is 0.0033333333333333335. The accuracy is 0.045408678102926335. 
+Done!The number of images are 991. The attributes are Male, Senior, White. The True positive is 0.013513513513513514. The accuracy is 0.04641775983854692. 
+Done!The number of images are 991. The attributes are Male, Young, Asian. The True positive is 0.0. The accuracy is 0.07063572149344097. 
+Done!The number of images are 991. The attributes are Male, Middle Aged, Asian. The True positive is 0.0. The accuracy is 0.13723511604439959. 
+Done!The number of images are 991. The attributes are Male, Senior, Asian. The True positive is 0.0. The accuracy is 0.13319878910191726. 
+Done!The number of images are 991. The attributes are Male, Young, Black. The True positive is 0.0. The accuracy is 0.06458123107971746. 
+Done!The number of images are 991. The attributes are Male, Middle Aged, Black. The True positive is 0.0. The accuracy is 0.1301715438950555. 
+Done!The number of images are 991. The attributes are Male, Senior, Black. The True positive is 0.0. The accuracy is 0.12613521695257315. 
+Done!The number of images are 991. The attributes are Female, Young, White. The True positive is 0.0. The accuracy is 0.056508577194752774. 
+Done!The number of images are 991. The attributes are Female, Middle Aged, White. The True positive is 0.0. The accuracy is 0.060544904137235116. 
+Done!The number of images are 991. The attributes are Female, Senior, White. The True positive is 0.0. The accuracy is 0.05751765893037336. 
+Done!The number of images are 991. The attributes are Female, Young, Asian. The True positive is 0.0. The accuracy is 0.17759838546922302. 
+Done!The number of images are 991. The attributes are Female, Middle Aged, Asian. The True positive is 0.0. The accuracy is 0.20887991927346114. 
+Done!The number of images are 991. The attributes are Female, Senior, Asian. The True positive is 0.0. The accuracy is 0.19374369323915236. 
+Done!The number of images are 991. The attributes are Female, Young, Black. The True positive is 0.007067137809187279. The accuracy is 0.17457114026236126. 
+Done!The number of images are 991. The attributes are Female, Middle Aged, Black. The True positive is 0.0. The accuracy is 0.2119071644803229. 
+Done!The number of images are 991. The attributes are Female, Senior, Black. The True positive is 0.0. The accuracy is 0.19475277497477295. 
